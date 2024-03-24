@@ -5,3 +5,9 @@ The launcher has an autoclicker and anti-kick, tracer, and much more.. The best 
 to run the cheat, you need to open roblox (your game), and then my file
 
 turn off your antivirus, it may interfere with the program starting
+
+[24.03.2024]
+updated launcher!
+[/]reduced file size
+[/]improved optimization (should not crash)
+[/]fixed bugs
